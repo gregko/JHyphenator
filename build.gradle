@@ -23,6 +23,6 @@ android {
 
 dependencies {
     implementation project(':TtsSetup')
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
     testImplementation 'pl.pragmatists:JUnitParams:1.1.1'
 }
